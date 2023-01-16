@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sddsergio
-- 👀 I’m interested in "aprender un poco de todo"
-- 🌱 I’m currently learning "JS"
-- 💞️ I’m looking to collaborate on "Colaborar con todo lo que pueda"
-- 📫 How to reach me "aca estoy"
+- 👋 Hi, I’m @sddsergio, Sergio.
+- 👀 I’m interested in "Learn something about web development"
+- 🌱 I’m currently learning "HTML, CSS & JS"
+- 💞️ I’m looking to collaborate on "..."
+- 📫 How to reach me "..."
 
 <!---
 sddsergio/sddsergio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
